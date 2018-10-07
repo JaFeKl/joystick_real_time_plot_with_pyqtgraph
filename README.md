@@ -5,7 +5,7 @@ In this project, the analog signals of a joystick module are plotted in real-tim
 ## Table of contents
 
    * [Arduino set-up](#arduino-set-up)
-   * [Real-time plotting using pyqtgraph](#real-time-plot-using-pyqtgraph)
+   * [Real-time plotting using pyqtgraph](#real-time-plotting-using-pyqtgraph)
 
 
 ## Arduino set-up
