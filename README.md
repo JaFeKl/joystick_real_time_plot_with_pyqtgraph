@@ -27,4 +27,7 @@ Although matplolib is the common plotting library for Python and allows creating
 <p align="center"><img src="doc/plot_gif.gif"></p>
 
 
-I am planning to do a youtube tutorial on this soon.
+I also created an explaining youtube video on this project. Just click below.
+
+<p align="center">
+[![Everything Is AWESOME](https://i9.ytimg.com/vi/EOfMco_2XYA/mqdefault.jpg?sqp=CLD1890F&rs=AOn4CLA-Z6Mh78z6OGjKOKP-MuUzvdeIMQ&time=1539111837104)](https://www.youtube.com/watch?v=EOfMco_2XYA)
